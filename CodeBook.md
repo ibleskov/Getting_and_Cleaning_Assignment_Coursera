@@ -1,6 +1,16 @@
 # Code Book
 This code book contains the descriptions of fields in the resulting tidy data set `tidy_dataset.txt`
 
+1. Dog
+    1. German Shepherd
+    2. Belgian Shepherd
+        1. Malinois
+        2. Groenendael
+        3. Tervuren
+2. Cat
+    1. Siberian
+    2. Siamese
+    
 ## Identifiers
 *  `subject`: the id of the study participant (subject)
 *  `activity`: the corresponding activity during the measurements 
