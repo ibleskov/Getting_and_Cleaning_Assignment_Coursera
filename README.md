@@ -1,1 +1,2 @@
-# Getting_and_Cleaning_Assignment_Coursera
+# Data Science Specialisation
+# Getting and Cleaning Data -- Assignment
