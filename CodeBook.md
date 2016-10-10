@@ -5,7 +5,7 @@ This code book contains the descriptions of fields in the resulting tidy data se
 *  `subject`: the id of the study participant (subject)
 *  `activity`: the corresponding activity during the measurements 
 
-### activity Labels (numbers are factor levels):
+### `activity` Labels (numbers are factor levels):
 1. WALKING: subject was walking
 2. WALKING_UPSTAIRS: subject was walking upstairs
 3. WALKING_DOWNSTAIRS: subject was walking downstairs
