@@ -1,5 +1,17 @@
-*  `subject`
-*  `activity`
+# Code Book
+This code book contains the descriptions of fields in the resulting tidy data set `tidy_dataset.txt`
+
+## Identifiers
+*  `subject`: the id of the study participant (subject)
+*  `activity`: the corresponding activity during the measurements 
+  1. WALKING: subject was walking
+  2. WALKING_UPSTAIRS: subject was walking upstairs
+  3. WALKING_DOWNSTAIRS: subject was walking downstairs
+  4. SITTING: subject was sitting
+  5. STANDING: subject was standing
+  6. LAYING: subject was laying down
+
+## Measurements
 *  `tBodyAccMeanX`
 *  `tBodyAccMeanY`
 *  `tBodyAccMeanZ`
