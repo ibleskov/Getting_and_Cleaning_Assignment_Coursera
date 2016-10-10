@@ -1,25 +1,15 @@
 # Code Book
 This code book contains the descriptions of fields in the resulting tidy data set `tidy_dataset.txt`
 
-1. Dog
-    1. German Shepherd
-    2. Belgian Shepherd
-        1. Malinois
-        2. Groenendael
-        3. Tervuren
-2. Cat
-    1. Siberian
-    2. Siamese
-    
 ## Identifiers
 *  `subject`: the id of the study participant (subject)
 *  `activity`: the corresponding activity during the measurements 
-    1. WALKING: subject was walking
-    2. WALKING_UPSTAIRS: subject was walking upstairs
-    3. WALKING_DOWNSTAIRS: subject was walking downstairs
-    4. SITTING: subject was sitting
-    5. STANDING: subject was standing
-    6. LAYING: subject was laying down
+1. WALKING: subject was walking
+2. WALKING_UPSTAIRS: subject was walking upstairs
+3. WALKING_DOWNSTAIRS: subject was walking downstairs
+4. SITTING: subject was sitting
+5. STANDING: subject was standing
+6. LAYING: subject was laying down
 
 ## Measurements
 *  `tBodyAccMeanX`
